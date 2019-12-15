@@ -22,3 +22,11 @@ Thank you for adding me to your server, I will now gladly go over the setup and 
   Bot Announcements: Want to setup bot announcements to output updates that have been added or changed to me? Well now that is possible.
   
   Changing the Announcements: To change the announcements channel feel free to do !settings updates #testChannel
+
+  Punishments Logs Channel: Want to setup the moderation aspect of the bot? Well here you go.
+  
+  Changing the logs channel: To change the announcement channel feel free to do !settings punishments #testChannel
+  
+  Reports: Want the ability for your users to report others in your guild for violating a rule with attachments [images]...?
+  
+  Changing the reports channel: To change the reports channel feel free to do !settings reports #testChannel 
