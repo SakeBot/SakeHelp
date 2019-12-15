@@ -3,3 +3,4 @@
 3) If you have an issue with payments then that isn't our fault.
 4) All premium costs and perks can change at any notice without the requirement of us telling you.
 5) If you need help with anything or just need to talk to us about if premium is worth it then feel free to join our discord server before you make the choice [https://discord.gg/PGvVdQP]
+6) By purchasing anythinig from our service you are agreeing not to chargeback, This can and will be used against you with proof if that is done.
