@@ -12,7 +12,7 @@ After inviting the bot please be sure to go through the setup process by doing *
 
 With the time and help from our beta testers we've implemented a feature where you can create and destroy voice channels which hasn't been done anywhere else.\
 You want to create a custom voice channel so only you and your friends have access but don't know how to?\
-Well with 酒 it's as easy as just typing this **!vc create** and **vc!add @酒。#0001**
+Well with 酒 it's as easy as just typing this **!vc create** and **!vc add @酒。#0001**
 > *Tip*: After 5 minutes of the owner not being in the voice channel they created it will automatically delete the channel.
 
 
